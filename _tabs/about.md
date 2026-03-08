@@ -1,8 +1,16 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About
+permalink: /about/
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## Pablo Vallespín Aranguren
+
+Systems security enthusiast focusing on:
+
+- Vulnerability research
+- Kernel exploitation
+- Side-channel attacks
+- Hardware and cache security
+
+This blog documents experiments, research notes, and security writeups.
