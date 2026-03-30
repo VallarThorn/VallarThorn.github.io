@@ -1,5 +1,5 @@
 ---
-title: "PwnFlow: Automating the CTF Pwn Setup Grind"
+title: "PwnFlow: Automating the CTF Pwn Setup"
 date: 2025-12-29
 categories: [Tools, CTF]
 tags: [ctf, pwn, automation, pwntools, bash, python, gdb, obsidian]
